@@ -1,0 +1,27 @@
+main{
+    
+    background-color: brown;
+    margin: 100;
+    padding: 1;
+    
+}
+.box{
+    background-color: yellow;
+    padding: 100px;
+    margin: 5px;
+}
+.flex{
+    display:flex;
+    
+}
+.pri{
+    background-color:aqua;  
+    margin:3;
+}
+.sec{
+    background-color:aqua;  
+    margin:1;
+}
+.lado{
+    padding-right: 29.2%;
+}
