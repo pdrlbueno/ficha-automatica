@@ -1,33 +1,21 @@
 main {
 
     background-color: brown;
-    margin-left: 700;
-    margin-right: 700;
+    margin-left: 200;
+    margin-right: 200;
+    
     padding: 1;
 
 }
 
 .box {
     background-color: yellow;
-    padding: 100px;
+    
     margin: 5px;
 }
 
 .flex {
     display: flex;
-    
-}
-
-.estender {
-    height: 16.7%;
-}
-
-.alongar {
-    width: 100% ;
-}
-.sim{
-    margin: 10;
-}
-.container{
-    margin: 10;
+    justify-content: space-around;
+    align-items: center;
 }
