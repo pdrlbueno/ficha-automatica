@@ -9,9 +9,10 @@ main {
 }
 
 .box {
-    background-color: yellow;
-    
+    background-color: white;
+    border-style: solid;
     margin: 5px;
+    
 }
 
 .flex {
